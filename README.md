@@ -10,3 +10,6 @@ I wanted to begin with a more simple data set to make sure I had some basics dow
 https://www.kaggle.com/kondla/carinsurance
 
 A big thank you to Greg Kondla who posted the data set for public use and to the Decision Science and Systems Chair of Technical University of Munich (TUM) for gathering the original data from a real company. The files containing the data and a PDF with a more detailed explanation of the features within the data can be found at the provided link.
+
+
+NOTE: Separate training and testing data was provided for use in a competition, however I did not find this dataset until after the competition was complete. My analysis therefore relies on the training dataset only since the testing dataset provided does not have the actual results of the cold call campaign for those clients.
